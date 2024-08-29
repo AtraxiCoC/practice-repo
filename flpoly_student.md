@@ -1,27 +1,27 @@
-## First Name Last Name
+## Labeeb Alkoka
 
-### Term Year 
+### Fall 2024 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Course 1 Calc 1
 
-- Course 2
+- Course 2 Object Oriented Programming
 
-- Course 3
+- Course 3 FLAME
 
-- Course 4
+- Course 4 Foundations Of Data Analytics
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Videogames
 
-- Thing 2
+- Hiking
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Music
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2024/08/29
